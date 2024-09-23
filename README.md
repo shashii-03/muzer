@@ -53,8 +53,8 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
 
-Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) - email@example.com
+
+
 
 Project Link: https://github.com/shashii-03/muzer/
